@@ -19,7 +19,7 @@ A fun and simple countdown timer made with Pygame.
 
 1. Clone this repo:
     ```sh
-    git clone https://github.com/yourusername/Project_time.git
+    git clone [https://github.com/yourusername/Project_time.git](https://github.com/Avrio888/Count-down-timer)
     ```
 2. Jump into the project folder:
     ```sh
